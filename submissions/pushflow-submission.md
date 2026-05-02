@@ -34,7 +34,11 @@ Products · Custom Collections · Smart Collections · Customers · Blog Posts �
 
 **Job history** — every import and export is tracked with row-level results. Download error reports and re-run failed rows.
 
-**Scheduled jobs (Pro+)** — recurring imports from any URL on a configurable schedule.
+**Scheduled jobs (Pro+)** — recurring imports from any URL, Google Drive, or Google Sheets on a configurable schedule.
+
+**FTP/SFTP import (Enterprise)** — connect to FTP or SFTP servers and automatically import the latest CSV/JSON file on a schedule. Test connection before saving.
+
+**Google Drive import (Starter+)** — import directly from Google Sheets or Google Drive CSV files. OAuth-connected, auto-refreshed tokens, works in scheduled jobs.
 
 **Pricing:**
 Free: 10 items per data type
@@ -69,15 +73,19 @@ Freemium — Shopify recurring billing, 7-day free trial on all paid plans
 - 1,000 rows per job
 - Products, Collections, Customers, Blog Posts, Pages, Redirects
 - Scheduling, 1 parallel job
+- Google Drive & Google Sheets import
 
 ### Pro — $49/month (7-day trial)
 - 50,000 rows per job
 - All 14+ data types
 - Scheduling, 3 parallel jobs
+- Google Drive & Google Sheets import
 
 ### Enterprise — $199/month (7-day trial)
 - Unlimited rows
 - 10 parallel jobs, priority support
+- Google Drive & Google Sheets import
+- FTP and SFTP import
 
 ## 10. App URL
 https://shopify-pushflow-production.up.railway.app
