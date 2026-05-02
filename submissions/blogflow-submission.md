@@ -37,10 +37,7 @@ Not another generic AI content tool. BlogFlow generates content that's relevant 
 
 **Built-in SEO features:**
 - Keyword density optimisation
-- Schema markup hints for article structured data
-- Readability scoring (Flesch-Kincaid)
-- Suggested internal links to your product pages
-- Duplicate content checking before publish
+- Suggested internal links to your product pages and existing posts
 
 BlogFlow connects directly to your Shopify blog via the Admin API — posts appear as native Shopify blog articles, fully editable, with no third-party hosting or redirects.
 
@@ -99,7 +96,7 @@ hello@saltai.app
 https://saltai.app/privacy/blogflow
 
 ### App URL (for partners.shopify.com)
-https://blogflow-production.up.railway.app
+https://blogflow-production-fdd0.up.railway.app
 
 ## 5. Key Benefits (ready to paste)
 **1. Rank on Google Without Hiring a Copywriter**
@@ -153,7 +150,7 @@ hello@saltai.app
 https://saltai.app/privacy/blogflow
 
 ### App URL (for partners.shopify.com)
-https://blogflow-production.up.railway.app
+https://blogflow-production-fdd0.up.railway.app
 
 ## 6. Pricing Tiers (ready to paste)
 **Free — Start Blogging**
@@ -194,13 +191,13 @@ hello@saltai.app
 https://saltai.app/privacy/blogflow
 
 ### App URL (for partners.shopify.com)
-https://blogflow-production.up.railway.app
+https://blogflow-production-fdd0.up.railway.app
 
 ## 7. App Details
 
 | Field | Value |
 |-------|-------|
-| App URL | https://blogflow-production.up.railway.app |
+| App URL | https://blogflow-production-fdd0.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/blogflow |
 | Support Email | hello@saltai.app |
 | Category | Marketing — Content marketing |
@@ -234,7 +231,7 @@ Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 - [ ] At least 3 screenshots uploaded
 - [ ] Category selected: Marketing — Content marketing
 - [ ] Keywords entered
-- [ ] App URL confirmed: https://blogflow-production.up.railway.app
+- [ ] App URL confirmed: https://blogflow-production-fdd0.up.railway.app
 - [ ] Test install on a development store before submitting for review
 
 ## 11. Partner Dashboard Link
