@@ -79,6 +79,13 @@ If your turnaround takes 24–72 hours, your booking system needs to reflect tha
 - `read_products` — to reference your services in the booking flow
 - `write_products` — to store booking configuration
 
+## Pro Plan Features
+- Booking calendar — see all upcoming bookings at a glance (Pro)
+- Unlimited service types and bookings
+- Capacity limits per slot
+- Email confirmations (customer + merchant)
+- Custom branding
+
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/local-booking
