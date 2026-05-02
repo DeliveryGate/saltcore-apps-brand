@@ -4,16 +4,16 @@
 SaltAI Food Suite
 
 ## 2. Tagline (max 100 chars)
-7 essential food commerce tools. One Shopify install. One price.
+8 essential food commerce tools. One Shopify install. One price.
 
 ## 3. Short Description (max 160 chars — for search results)
-One subscription. Seven purpose-built food commerce tools: allergen compliance, menu builder, team orders, corporate accounts, smart shop, local booking, and food blog.
+One subscription. Eight purpose-built food commerce tools: allergen compliance, menu builder, team orders, corporate accounts, smart shop, local booking, food blog, and AI product descriptions.
 
 ## 4. Full Description (ready to paste)
 
-SaltAI Food Suite gives food businesses 7 purpose-built tools in a single Shopify install. Configure each feature independently from one unified admin dashboard.
+SaltAI Food Suite gives food businesses 8 purpose-built tools in a single Shopify install. Configure each feature independently from one unified admin dashboard.
 
-Instead of installing and managing multiple separate apps, Food Suite merchants get all seven food-specific tools for one flat monthly fee — and can toggle each feature on or off depending on what their business needs.
+Instead of installing and managing multiple separate apps, Food Suite merchants get all eight food-specific tools for one flat monthly fee — and can toggle each feature on or off depending on what their business needs.
 
 **What's included in SaltAI Food Suite:**
 
@@ -24,12 +24,13 @@ Instead of installing and managing multiple separate apps, Food Suite merchants 
 - **Corporate Accounts** — B2B application and approval workflow. Corporate prospects apply via a public form; you review, approve, and set custom pricing per account.
 - **Local Booking** — time-slot service booking. Customers book a service slot (catering, collection, delivery, consultation). You control availability, capacity, and advance notice requirements.
 - **Food Blog** — AI content engine. Generate SEO-optimised blog posts for your food business on demand from the admin dashboard.
+- **ProductFlow** — AI product description generator. Produce allergen-aware, SEO-ready product descriptions for your entire catalogue from the admin dashboard.
 
 **Who it's for:**
 
 Food Suite is designed for food businesses with multiple operational needs — caterers, restaurants with online ordering, food producers selling direct-to-consumer, and hospitality operators managing B2B and B2C simultaneously.
 
-If you'd otherwise install three or more tools separately, Food Suite saves you money and gives you a single admin dashboard for all seven.
+If you'd otherwise install three or more tools separately, Food Suite saves you money and gives you a single admin dashboard for all eight.
 
 **Unified dashboard:**
 
@@ -39,8 +40,8 @@ Food Suite merchants manage all features from one admin interface. Toggle each f
 
 ## 5. Key Benefits (ready to paste)
 
-**1. Seven specialised food commerce tools for less than buying three individually**
-Allergen compliance, meal configuration, team ordering, B2B accounts, dietary filtering, service booking, and AI content — all included. No juggling multiple subscriptions or paying for partial feature access.
+**1. Eight specialised food commerce tools for less than buying three individually**
+Allergen compliance, meal configuration, team ordering, B2B accounts, dietary filtering, service booking, AI content, and AI product descriptions — all included. No juggling multiple subscriptions or paying for partial feature access.
 
 **2. Built specifically for the complexity of food commerce**
 Generic Shopify apps don't understand allergen law, B2B catering workflows, or team lunch logistics. SaltAI Food Suite is designed specifically for food merchants who need these capabilities in one place.
@@ -52,8 +53,8 @@ Every feature can be toggled independently. A bakery might only need Allergen Ma
 
 ## 6. Pricing Tiers (ready to paste)
 
-**Starter — $149/month** — 14-day free trial
-- All 7 food commerce features (toggle each on/off)
+**Starter — $169/month** — 14-day free trial
+- All 8 food commerce features (toggle each on/off)
 - Allergen Matrix: up to 30 products
 - Menu Builder: up to 3 menus
 - Smart Shop: up to 50 products
@@ -63,8 +64,8 @@ Every feature can be toggled independently. A bakery might only need Allergen Ma
 - Food Blog: 20 posts/month
 - Email support: hello@saltai.app
 
-**Pro — $249/month** — 14-day free trial
-- All 7 features with unlimited usage
+**Pro — $279/month** — 14-day free trial
+- All 8 features with unlimited usage
 - Custom branding across all features
 - API access
 - Onboarding call (30 min, one time)
@@ -89,7 +90,7 @@ Required size: 1200×1200 px
 
 ## 9. Screenshots to Capture
 
-1. Unified SaltAI dashboard showing all 7 feature toggles
+1. Unified SaltAI dashboard showing all 8 feature toggles
 2. Allergen Matrix filtering in action on a storefront
 3. Menu Builder meal configurator with live allergen summary
 4. Team Orders weekly order management view
