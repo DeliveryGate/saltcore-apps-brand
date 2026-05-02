@@ -37,6 +37,8 @@ BundleBox keeps it simple. Build bundles from your existing products, set the di
 
 **Built for food merchants, gifting stores, and anyone who wants to sell more per order.**
 
+Perfect for food businesses — create meal deal bundles, sharing platters, family packs, and catering packages. Bundle Builder works for any Shopify store.
+
 ---
 
 ### Key Benefits
@@ -60,7 +62,7 @@ Fixed bundles for curated products, mix-and-match for customer choice, volume ti
 - No volume discounts
 - Watermark "Powered by SaltAI"
 
-**Starter — $19/month**
+**Starter — $14/month**
 - Up to 5 bundles
 - Fixed and mix-and-match bundles
 - 1 volume discount tier
@@ -111,7 +113,7 @@ Fixed bundles for curated products, mix-and-match for customer choice, volume ti
 - No volume discounts
 - Watermark "Powered by SaltAI"
 
-**Starter — $19/month**
+**Starter — $14/month**
 - Up to 5 bundles
 - Fixed and mix-and-match bundles
 - 1 volume discount tier
@@ -149,7 +151,7 @@ https://bundlebox-production.up.railway.app
 - No volume discounts
 - Watermark "Powered by SaltAI"
 
-**Starter — $19/month**
+**Starter — $14/month**
 - Up to 5 bundles
 - Fixed and mix-and-match bundles
 - 1 volume discount tier
