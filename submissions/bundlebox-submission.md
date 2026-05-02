@@ -33,7 +33,7 @@ BundleBox keeps it simple. Build bundles from your existing products, set the di
 - Bundle widget matches your theme's style automatically
 - Discounts apply before the customer reaches checkout — no surprises
 - Manage all bundles from one clean admin dashboard
-- See which bundles are performing in the analytics view
+- Bundle overview dashboard — track active bundles by type
 
 **Built for food merchants, gifting stores, and anyone who wants to sell more per order.**
 
@@ -70,7 +70,7 @@ Fixed bundles for curated products, mix-and-match for customer choice, volume ti
 - Unlimited bundles
 - All bundle types
 - Multiple volume discount tiers
-- Bundle analytics
+- Bundle overview dashboard — track active bundles by type
 - Custom branding
 - Email support: hello@saltai.app
 
@@ -121,7 +121,7 @@ Fixed bundles for curated products, mix-and-match for customer choice, volume ti
 - Unlimited bundles
 - All bundle types
 - Multiple volume discount tiers
-- Bundle analytics
+- Bundle overview dashboard — track active bundles by type
 - Custom branding
 - Email support: hello@saltai.app
 
@@ -159,7 +159,7 @@ https://bundlebox-production.up.railway.app
 - Unlimited bundles
 - All bundle types
 - Multiple volume discount tiers
-- Bundle analytics
+- Bundle overview dashboard — track active bundles by type
 - Custom branding
 - Email support: hello@saltai.app
 

@@ -1,7 +1,7 @@
 # Allergen Matrix — Global Food Compliance — App Store Submission
 
 ## 1. App Name (max 30 chars)
-Allergen Matrix — Food Compliance
+Allergen Matrix
 
 ## 2. Tagline (max 100 chars)
 Natasha's Law. FALCPA. New York 2025. One app.
@@ -38,7 +38,7 @@ Whether you sell in the UK, the US, the EU, or Australia — allergen labelling 
 - Exclusion-based filtering — the correct allergy safety model
 - Bulk add to basket from filtered results
 - Custom brand colour (Pro)
-- Bulk CSV import from existing records (Pro+)
+- Bulk CSV import from existing records (Starter+)
 - Audit log — every allergen change timestamped (Pro)
 
 **What's NOT in this app:**
@@ -66,8 +66,8 @@ US law requires specific tree nuts to be named individually (not just "tree nuts
 | Plan | Price | Products | Features |
 |------|-------|----------|----------|
 | **Free** | $0/month | 5 products | Allergen matrix display, all compliance modes, compliance badge |
-| **Starter** | $49/month | 30 products | Everything in Free + live filtering, dietary filters, direct to cart, custom warning messages, email support |
-| **Pro** | $125/month | Unlimited | Everything in Starter + CSV bulk import, custom branding, audit log. Email support: hello@saltai.app |
+| **Starter** | $49/month | 30 products | Everything in Free + live filtering, dietary filters, direct to cart, custom warning messages, CSV bulk import, email support |
+| **Pro** | $125/month | Unlimited | Everything in Starter + custom branding, audit log. Email support: hello@saltai.app |
 
 ---
 
@@ -93,7 +93,7 @@ US law requires specific tree nuts to be named individually (not just "tree nuts
 
 | Field | Value |
 |-------|-------|
-| App URL | https://allergen-matrix-production.up.railway.app |
+| App URL | https://shopify-allergen-matrix-production.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/allergen-matrix |
 | Support Email | hello@saltai.app |
 | Category | Store design → Custom storefronts |
@@ -116,7 +116,7 @@ Required size: 1200×1200 px
 - [ ] Pricing tiers updated: Free / Starter $49 / Pro $125
 - [ ] Privacy policy URL: https://saltai.app/privacy/allergen-matrix
 - [ ] Support email: hello@saltai.app
-- [ ] App URL: https://allergen-matrix-production.up.railway.app
+- [ ] App URL: https://shopify-allergen-matrix-production.up.railway.app
 - [ ] Test UK mode shows 14 allergens
 - [ ] Test US mode shows 9 allergens with tree nut UI
 - [ ] Test compliance badge shows correct law on storefront
