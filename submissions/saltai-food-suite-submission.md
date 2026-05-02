@@ -17,7 +17,7 @@ Instead of installing and managing multiple separate apps, Food Suite merchants 
 
 **What's included in SaltAI Food Suite:**
 
-- **Allergen Matrix** — interactive allergen compliance filtering on product and menu pages. Customers filter by allergen and dietary requirement. Built to UK Natasha's Law standards.
+- **Allergen Matrix** — interactive allergen compliance filtering on product and menu pages. Customers filter by allergen and dietary requirement. Built to UK Natasha's Law standards. When AllergenMatrix is enabled, Menu Builder, Smart Shop, and ProductFlow read allergen and dietary data from a single source of truth. Configure once — every tool reflects the update automatically.
 - **Menu Builder** — custom meal configurator. Customers select size, items by category, and see live allergen summaries and pricing. Works as a native Shopify theme block.
 - **Smart Shop** — dietary-filtered collection page. Customers filter products by allergen and dietary label (vegan, halal, gluten-free). Replaces standard Shopify collection pages for food stores.
 - **Team Orders** — weekly B2B catering order management. Office managers select meals for their team; orders are aggregated and sent to the kitchen. Configurable per day and per minimum order value.
