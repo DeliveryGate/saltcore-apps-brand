@@ -73,7 +73,7 @@ Blog content is your highest-ROI marketing channel. A post written today can dri
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/food-blog
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/food-blog
 
 ---
 
@@ -107,7 +107,7 @@ Blog content is your highest-ROI marketing channel. A post written today can dri
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/food-blog
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/food-blog
 
 ---
 

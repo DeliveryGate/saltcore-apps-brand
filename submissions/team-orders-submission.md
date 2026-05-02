@@ -83,7 +83,7 @@ Small orders for one or two days can be uneconomical when you factor in delivery
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/team-orders
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/team-orders
 
 ---
 
@@ -117,7 +117,7 @@ Small orders for one or two days can be uneconomical when you factor in delivery
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/team-orders
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/team-orders
 
 ---
 

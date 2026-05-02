@@ -1,53 +1,54 @@
-# SaltAI Food Suite — App Store Submission Checklist
+# SaltAI Food Suite — Complete Food Commerce — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
 SaltAI Food Suite
 
 ## 2. Tagline (max 100 chars)
-All SaltAI food commerce apps in one plan — allergens, delivery, menus, bookings, and more.
+7 essential food commerce tools. One Shopify install. One price.
 
 ## 3. Short Description (max 160 chars — for search results)
-One subscription covers all SaltAI food commerce apps: allergen labels, delivery scheduling, menu builder, click & collect, local booking, and more.
+One subscription. Seven purpose-built food commerce tools: allergen compliance, menu builder, team orders, corporate accounts, smart shop, local booking, and food blog.
 
 ## 4. Full Description (ready to paste)
 
-SaltAI Food Suite is a bundled plan that gives food businesses access to the complete SaltAI app portfolio under a single monthly subscription.
+SaltAI Food Suite gives food businesses 7 purpose-built tools in a single Shopify install. Configure each feature independently from one unified admin dashboard.
 
-Instead of paying for each app individually, Food Suite merchants get access to all food-specific SaltAI apps — allergen compliance, delivery management, digital menus, click and collect, local booking, team ordering, corporate accounts, and AI content — for one flat fee.
+Instead of installing and managing multiple separate apps, Food Suite merchants get all seven food-specific tools for one flat monthly fee — and can toggle each feature on or off depending on what their business needs.
 
 **What's included in SaltAI Food Suite:**
 
-- **SafeServe** — allergen and dietary labels on product pages
-- **Allergen Matrix** — comprehensive allergen management and compliance reporting
-- **Delivery IQ** — delivery scheduling, postcode validation, blackout dates
-- **Menu Builder** — digital menus with allergen display and QR codes
-- **Smart Shop** — click and collect with time slot management
-- **Local Booking** — service and appointment booking
-- **Team Orders** — weekly B2B team lunch ordering
-- **Corporate Accounts** — B2B account management and invoicing
-- **Food Blog** — AI-generated blog content for food businesses
-- **SaltAI Subscriptions** — recurring subscription orders
+- **Allergen Matrix** — interactive allergen compliance filtering on product and menu pages. Customers filter by allergen and dietary requirement. Built to UK Natasha's Law standards.
+- **Menu Builder** — custom meal configurator. Customers select size, items by category, and see live allergen summaries and pricing. Works as a native Shopify theme block.
+- **Smart Shop** — dietary-filtered collection page. Customers filter products by allergen and dietary label (vegan, halal, gluten-free). Replaces standard Shopify collection pages for food stores.
+- **Team Orders** — weekly B2B catering order management. Office managers select meals for their team; orders are aggregated and sent to the kitchen. Configurable per day and per minimum order value.
+- **Corporate Accounts** — B2B application and approval workflow. Corporate prospects apply via a public form; you review, approve, and set custom pricing per account.
+- **Local Booking** — time-slot service booking. Customers book a service slot (catering, collection, delivery, consultation). You control availability, capacity, and advance notice requirements.
+- **Food Blog** — AI content engine. Generate SEO-optimised blog posts for your food business on demand from the admin dashboard.
 
 **Who it's for:**
 
-Food Suite is designed for established food businesses with multiple operational needs — caterers, restaurants with online ordering, food producers selling direct-to-consumer, and hospitality operators managing B2B and B2C sales simultaneously.
+Food Suite is designed for food businesses with multiple operational needs — caterers, restaurants with online ordering, food producers selling direct-to-consumer, and hospitality operators managing B2B and B2C simultaneously.
 
-If you're using three or more SaltAI apps individually, Food Suite saves you money and gives you a unified admin experience across all apps.
+If you'd otherwise install three or more tools separately, Food Suite saves you money and gives you a single admin dashboard for all seven.
 
 **Unified dashboard:**
 
-Food Suite merchants get access to a central SaltAI dashboard that surfaces data from all active apps: allergen compliance status, delivery schedule overview, active subscriptions, booking calendar, and content pipeline — in one place.
+Food Suite merchants manage all features from one admin interface. Toggle each feature on or off. Configure only what your business needs. Each feature is independent — there's no requirement to use all seven.
+
+---
 
 ## 5. Key Benefits (ready to paste)
 
-**1. Everything Your Food Business Needs, One Price**
-Ten specialised food commerce apps for less than buying three individually. No juggling multiple subscriptions, no partial feature access — everything included at the maximum tier.
+**1. Seven specialised food commerce tools for less than buying three individually**
+Allergen compliance, meal configuration, team ordering, B2B accounts, dietary filtering, service booking, and AI content — all included. No juggling multiple subscriptions or paying for partial feature access.
 
-**2. Built for the Complexity of Food Commerce**
-Generic Shopify apps don't understand the intersection of allergen compliance, delivery logistics, B2B accounts, and food content marketing. SaltAI Food Suite is the only bundle designed specifically for food merchants who need all of these capabilities working together.
+**2. Built specifically for the complexity of food commerce**
+Generic Shopify apps don't understand allergen law, B2B catering workflows, or team lunch logistics. SaltAI Food Suite is designed specifically for food merchants who need these capabilities in one place.
 
-**3. Apps That Work Better Together**
-Within Food Suite, the apps share data: SafeServe and Allergen Matrix share your allergen database, Delivery IQ and Smart Shop share delivery zone settings, Corporate Accounts integrates with Team Orders. The whole is more than the sum of its parts.
+**3. Configure only what your business needs**
+Every feature can be toggled independently. A bakery might only need Allergen Matrix and Smart Shop. A caterer might use Team Orders, Corporate Accounts, and Local Booking. There's no requirement to use every feature — activate what's relevant and ignore the rest.
+
+---
 
 ## 6. Pricing Tiers (ready to paste)
 
@@ -63,11 +64,13 @@ Within Food Suite, the apps share data: SafeServe and Allergen Matrix share your
 - Email support: hello@saltai.app
 
 **Pro — $249/month** — 14-day free trial
-- All 7 features with unlimited everything
+- All 7 features with unlimited usage
 - Custom branding across all features
 - API access
 - Onboarding call (30 min, one time)
 - Email support: hello@saltai.app
+
+---
 
 ## 7. App Details
 
@@ -86,11 +89,11 @@ Required size: 1200×1200 px
 
 ## 9. Screenshots to Capture
 
-1. Unified SaltAI dashboard showing all active apps
-2. Cross-app data view (e.g. allergen DB shared between SafeServe + Allergen Matrix)
-3. Billing overview — one subscription, all apps
-4. Individual app switcher within the suite
-5. Onboarding flow for new Food Suite merchants
+1. Unified SaltAI dashboard showing all 7 feature toggles
+2. Allergen Matrix filtering in action on a storefront
+3. Menu Builder meal configurator with live allergen summary
+4. Team Orders weekly order management view
+5. Corporate Accounts application review dashboard
 
 ## 10. Submission Checklist
 

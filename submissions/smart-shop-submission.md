@@ -78,7 +78,7 @@ Smart Shop's morphing quantity stepper lets customers add, increase, and decreas
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/smart-shop
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/smart-shop
 
 ---
 
@@ -112,7 +112,7 @@ Smart Shop's morphing quantity stepper lets customers add, increase, and decreas
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/smart-shop
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/smart-shop
 
 ---
 

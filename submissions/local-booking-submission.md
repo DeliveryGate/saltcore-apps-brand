@@ -82,7 +82,7 @@ If your turnaround takes 24–72 hours, your booking system needs to reflect tha
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/local-booking
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/local-booking
 
 ---
 
@@ -116,7 +116,7 @@ If your turnaround takes 24–72 hours, your booking system needs to reflect tha
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/local-booking
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/local-booking
 
 ---
 

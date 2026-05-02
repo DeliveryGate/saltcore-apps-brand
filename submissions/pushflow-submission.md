@@ -1,75 +1,105 @@
-# PushFlow — App Store Submission Checklist
+# PushFlow — Bulk Blog Content Publisher — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-PushFlow — Push Notifications
+PushFlow — Bulk Blog Publisher
 
 ## 2. Tagline (max 100 chars)
-Browser push notifications for Shopify — abandoned cart recovery, back-in-stock, and promotions.
+Import hundreds of blog posts to Shopify in minutes. No spreadsheets. No complexity.
 
 ## 3. Short Description (max 160 chars — for search results)
-Send browser push notifications to Shopify customers. Recover abandoned carts, alert on restocks, and run promotions — no email address needed.
+Bulk import blog posts from CSV or JSON files directly to your Shopify blog. Replaces Matrixify for blog content at 75% lower cost.
 
 ## 4. Full Description (ready to paste)
 
-PushFlow adds browser push notification capability to your Shopify store, giving you a direct communication channel to customers who have opted in — without requiring their email address.
+PushFlow solves the problem every Shopify merchant with a serious content strategy faces — there is no simple way to bulk import blog posts. Matrixify charges £200/month for unlimited imports with a complex spreadsheet workflow. PushFlow does the same job for $49.99/month with a simple drag-and-drop interface.
 
-Push notifications land on a customer's device even when they're not on your site, making them one of the highest-engagement channels available to e-commerce merchants. Average open rates of 7–15% compared to 2-3% for email.
+Upload a CSV or JSON file, select your target blog, and watch the live progress bar as posts publish one by one. Duplicate detection stops you publishing the same post twice. Scheduled publishing lets you drip content over days or weeks.
 
-**Ideal for food businesses** that need to communicate time-sensitive information: today's specials, limited availability, flash sales, or back-in-stock alerts for popular products.
+Used by SaltCore to manage 850+ blog posts across food business websites — including a food supplier to Selfridges.
 
-**Core use cases:**
-- **Abandoned cart recovery** — nudge customers who added to cart but didn't complete checkout
-- **Back-in-stock alerts** — notify subscribers when a sold-out product returns
-- **Promotional campaigns** — send flash sales and time-limited offers directly to opted-in customers
-- **Order status updates** — let customers know when their order ships or is ready to collect
+**Core features:**
 
-**How it works:**
-1. Install PushFlow — a small opt-in prompt appears on your store (customisable timing and appearance)
-2. Customers click "Allow" to subscribe to notifications
-3. Use the PushFlow dashboard to create and schedule notifications
-4. Automated triggers (abandoned cart, back-in-stock) run without any manual action
+- **CSV and JSON bulk import** — upload a file of posts in either format; PushFlow parses and publishes each one directly to your Shopify blog
+- **Live progress bar** — see each post as it publishes; import jobs run in the background so you can close the tab and come back
+- **Duplicate detection** — PushFlow checks for matching post titles before importing; never publish the same post twice
+- **Scheduled publishing** — set a target date and let PushFlow drip posts over days or weeks automatically
+- **Blog export** — export all posts from any blog to a CSV for backup, editing, or migration
+- **Blog audit tool** — scan your blog for thin content, duplicate titles, and posts without meta descriptions (Pro)
+- **Import history** — full log of every import job with per-post status (published / failed / skipped)
+- **Rate-limited to stay within Shopify API limits** — PushFlow manages API pacing automatically so imports don't fail
 
-**What merchants report:**
-PushFlow users typically see 8-12% of site visitors opting in to notifications within 30 days, and abandoned cart recovery notifications recovering 5-8% of abandoned carts.
+**Why merchants switch from Matrixify:**
+
+Matrixify is a powerful general-purpose import tool but requires you to learn a complex spreadsheet schema. For merchants who only need to bulk import blog posts, it's overkill at £200/month. PushFlow is purpose-built for blog content — simpler, faster, and dramatically cheaper.
+
+**CSV format:**
+PushFlow accepts a simple CSV with columns for title, body_html, author, tags, published_at, and summary. Download the template from the app.
+
+**JSON format:**
+PushFlow also accepts a JSON array format — useful when exporting from headless CMS platforms or AI content generators. Each object maps to one blog post.
+
+---
 
 ## 5. Key Benefits (ready to paste)
 
-**1. Reach Customers Without Email**
-Push notifications work even when customers haven't given you their email address. Every opted-in visitor becomes a reachable customer — opening a new channel alongside email and SMS.
+**1. Publish hundreds of posts in minutes, not hours**
+Manually creating Shopify blog posts one by one is tedious at any scale. PushFlow processes your entire CSV or JSON file in a single import job — 500 posts publishes in under 10 minutes. The live progress bar shows exactly what's happening.
 
-**2. Automated Revenue Recovery**
-Abandoned cart notifications are sent automatically when a customer leaves without buying. Configure the delay, the message, and any discount offer — PushFlow does the rest. Most stores recover meaningful revenue within the first week.
+**2. 75% cheaper than Matrixify for blog-only imports**
+If you're using Matrixify just to import blog content, you're paying £200/month for features you don't need. PushFlow is purpose-built for blog imports at $49.99/month with unlimited posts on Pro.
 
-**3. Real-Time for Food Commerce**
-Communicate time-sensitive updates instantly: today's specials, limited batch availability, same-day delivery cutoff reminders. Push notifications are read within minutes, not hours.
+**3. Never lose track of what you've already published**
+Duplicate detection checks your entire import history before publishing each post. Import history shows the status of every post across every job — published, failed, or skipped with reasons.
+
+---
 
 ## 6. Pricing Tiers (ready to paste)
 
 **Free — Get Started**
-- Up to 20 imports per month
+- 20 imports per month
 - CSV only
-- No scheduling
+- No scheduled publishing
 - No export
 - No blog audit
-- Watermark "Powered by SaltAI"
+- Watermark "Powered by PushFlow"
 
-**Starter — $29/month**
-- Up to 500 imports per month
-- CSV and JSON
+**Starter — $29.99/month**
+- 500 imports per month
+- CSV and JSON import
 - Scheduled publishing
 - Export to CSV
-- Import history 90 days
+- Import history (90 days)
 - Email support: hello@saltai.app
 
-**Pro — $49/month**
+**Pro — $49.99/month**
 - Unlimited imports
 - Everything in Starter
-- Blog audit tool
-- Duplicate detection across entire store history
-- Multi-store support
+- Blog audit tool (thin content, duplicate titles, missing meta)
+- Duplicate detection across full store history
 - API access
-- Custom branding
+- Custom branding removed
 - Email support: hello@saltai.app
+
+---
+
+## App Category
+**Store content** — Blogs  
+**Operations** — File management
+
+## Required Permissions
+- `read_content` — to check for existing posts and read blog structure
+- `write_content` — to create blog posts via import
+
+## Support
+- Support email: support@saltai.app
+- Privacy policy: https://saltai.app/privacy/pushflow
+
+---
+
+## App Store Tags
+`blog import` `bulk publish` `content migration` `blog management` `CSV import` `Shopify blog` `content publishing` `Matrixify alternative`
+
+---
 
 ## 7. App Details
 
@@ -77,9 +107,9 @@ Communicate time-sensitive updates instantly: today's specials, limited batch av
 |-------|-------|
 | App URL | https://pushflow-production.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/pushflow |
-| Support Email | hello@saltai.app |
-| Category | Marketing and conversion — Email marketing |
-| Keywords | push notifications, abandoned cart, back in stock, browser notifications, web push, cart recovery, promotions, re-engagement |
+| Support Email | support@saltai.app |
+| Category | Store content — Blogs |
+| Keywords | blog import, bulk publish, content migration, blog management, CSV import, Shopify blog, content publishing |
 
 ## 8. App Icon
 
@@ -88,11 +118,13 @@ Required size: 1200×1200 px
 
 ## 9. Screenshots to Capture
 
-1. PushFlow dashboard — subscriber count and campaign overview
-2. Opt-in prompt preview on a storefront
-3. Abandoned cart notification setup
-4. Back-in-stock alert configuration
-5. Campaign analytics screen
+1. PushFlow dashboard — import job history with post counts and status badges
+2. Import screen — drag-and-drop file upload with blog selector
+3. Live progress view — progress bar showing posts publishing in real time
+4. Blog audit results — thin content and duplicate detection report
+5. Scheduled posts screen — drip publishing calendar
+
+Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 
 ## 10. Submission Checklist
 
@@ -102,10 +134,10 @@ Required size: 1200×1200 px
 - [ ] Key benefits pasted
 - [ ] Pricing tiers set up in Partner dashboard
 - [ ] Privacy policy URL entered: https://saltai.app/privacy/pushflow
-- [ ] Support email entered: hello@saltai.app
+- [ ] Support email entered: support@saltai.app
 - [ ] App icon uploaded (1200×1200 PNG)
 - [ ] At least 3 screenshots uploaded
-- [ ] Category selected: Marketing and conversion
+- [ ] Category selected: Store content — Blogs
 - [ ] Keywords entered
 - [ ] App URL confirmed: https://pushflow-production.up.railway.app
 - [ ] Test install on a development store before submitting for review

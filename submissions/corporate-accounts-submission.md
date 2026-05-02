@@ -1,25 +1,25 @@
-# Corporate Accounts — B2B Portal — App Store Submission Checklist
+# Corporate Accounts — B2B Application Manager — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-Corporate Accounts — B2B Portal
+Corporate Accounts — B2B App
 
 ## 2. Tagline (max 100 chars)
-B2B account management for Shopify. Applications, custom pricing, invoicing, and T&Cs — all in one place.
+B2B account management for Shopify. Application form, approval workflow, and custom pricing.
 
 ## 3. Short Description (max 160 chars — for search results)
-Manage B2B corporate accounts on Shopify. Online application form, custom pricing per account, monthly invoice generation, and T&Cs acceptance — no extra platform needed.
+Manage B2B corporate accounts on Shopify. Online application form, admin approval workflow, custom pricing per account, and T&Cs acceptance — no extra platform needed.
 
 ## 4. Full Description (ready to paste)
-### Run your corporate sales operation from Shopify — without a separate CRM or invoicing tool.
+### Run your B2B onboarding from Shopify — without a separate CRM.
 
-Food businesses with B2B customers face a unique challenge: corporate clients expect account pricing, credit terms, invoices, and a formal onboarding process — but Shopify is built for retail. Corporate Accounts brings your entire B2B operation into Shopify: applications, approval, account management, and monthly invoicing, all from your existing store admin.
+Food businesses with B2B customers face a unique challenge: corporate clients expect account pricing, credit terms, and a formal onboarding process — but Shopify is built for retail. Corporate Accounts brings your B2B application and approval workflow into Shopify, giving corporate prospects a proper onboarding experience directly on your store.
 
 **How it works:**
 1. A corporate application form appears on any page of your Shopify store
 2. Prospects fill in their company details, estimated monthly spend, and accept your T&Cs
 3. You review applications in the Corporate Accounts admin and approve, reject, or hold
-4. Approved accounts get a customer record with custom pricing, discount notes, and an account number
-5. Monthly invoices are generated automatically from Shopify order data (Pro+)
+4. Approved accounts receive a custom discount percentage and pricing notes stored against their record
+5. Account status is tracked throughout: pending → approved → active, or rejected/suspended as needed
 
 **The application form (visible to public, no Shopify account needed):**
 - Company name, contact name, email, phone, and position
@@ -27,39 +27,39 @@ Food businesses with B2B customers face a unique challenge: corporate clients ex
 - Delivery address and billing address
 - T&Cs acceptance with full terms displayed inline
 - BACS bank details shown to new applicants
-- "Already have an account? Log in" CTA
+- "Already have an account? Log in" CTA linking to your Shopify account area
 
 **What you manage in the admin:**
-- Application review dashboard (pending, approved, rejected, suspended)
-- Per-account: custom discount percentage, pricing notes, account number
-- Monthly invoice generation with Shopify order line items (Pro+)
-- Invoice status workflow: draft → sent → paid → overdue
+- Application review dashboard with status tabs (pending, approved, rejected, suspended)
+- Per-account: custom discount percentage, pricing notes, account status
 - Bank details configuration (account name, sort code, account number, IBAN)
-- T&Cs builder for customised legal terms (Pro+)
-- Welcome email template (what prospects receive after approval)
-- Spend tier configuration (customise the dropdown options in the application form)
+- T&Cs builder — customise your legal terms (Pro)
+- Spend tier configuration — customise the monthly spend dropdown in the application form
+- Manual invoice records per account: log the month, total amount, and track payment status (Pro)
 
-**Monthly invoicing (Pro+):**
-Corporate Accounts automatically compiles each approved client's Shopify orders into a monthly invoice. You review, adjust, and mark as sent. Clients receive a summary of all orders with totals. Invoice status (paid, overdue) is tracked in the admin. No Xero or QuickBooks required for the basics.
+**Invoice record-keeping (Pro):**
+Corporate Accounts lets you create manual invoice records per approved account. Record the billing month and total, then track status through draft → sent → paid. This is a record-keeping tool — it does not automatically pull orders from Shopify or generate PDFs. Full automated invoice generation is planned for a future release.
 
 **Compliance and legal:**
 - Full T&Cs displayed at the point of application — acceptance is recorded
-- GDPR-compliant: customer email and personal data is handled in accordance with data protection requirements
-- Bank details are shown in-app, not in emails, to reduce interception risk
+- GDPR-compliant data handling
+- Bank details displayed in-app, not in emails
 - Audit trail of all account status changes
+
+Corporate Accounts manages your B2B application and approval workflow. Approved accounts receive custom pricing. Full automated invoice generation and an account holder portal are coming in a future update.
 
 ---
 
 ## 3 Key Benefits
 
-**1. Turn a WhatsApp conversation into a formal onboarding process**
-Most food businesses sign up corporate clients over email or WhatsApp, with terms agreed verbally. Corporate Accounts gives you a proper onboarding flow: a public application form, T&Cs acceptance on record, and a formal approval step — the kind of process your corporate clients expect when they're spending thousands per month.
+**1. Turn an ad-hoc sign-up into a formal B2B onboarding process**
+Most food businesses sign up corporate clients over email or WhatsApp, with terms agreed verbally. Corporate Accounts gives you a proper onboarding flow: a public application form, T&Cs acceptance on record, and a formal approval step — the kind of process corporate clients expect when spending thousands per month.
 
 **2. Set custom pricing per corporate account without Shopify Plus**
-Standard Shopify doesn't support per-customer pricing without Shopify Plus. Corporate Accounts stores discount percentages and pricing notes per account, visible to your team when processing orders. You can handle different rates for different clients without any plan upgrade.
+Standard Shopify doesn't support per-customer pricing without Shopify Plus. Corporate Accounts stores discount percentages and pricing notes per account, visible to your team when processing orders. Different rates for different clients — no plan upgrade required.
 
-**3. Generate monthly invoices automatically — no separate invoicing tool**
-Pulling orders together for a monthly invoice takes hours if done manually. Corporate Accounts generates invoices from Shopify order data automatically: all orders from an approved account in the billing period, totalled and formatted. You review, send, and track payment — all inside Shopify.
+**3. Keep B2B and retail separate without a second platform**
+Managing corporate accounts in a spreadsheet or a separate CRM means data in two places. Corporate Accounts keeps everything in your Shopify admin: who applied, when they were approved, what pricing they're on, and any notes about their account.
 
 ---
 
@@ -67,9 +67,9 @@ Pulling orders together for a monthly invoice takes hours if done manually. Corp
 
 | Plan | Price | Accounts | Features |
 |------|-------|----------|----------|
-| **Free** | $0/month | 2 accounts | Application form only, no custom pricing, watermark |
-| **Starter** | $29/month | 10 accounts | Application form with approval workflow, custom pricing per account, account status management. Email support: hello@saltai.app |
-| **Pro** | $75/month | Unlimited | Everything in Starter + account holder login portal, monthly invoice generation, order history per account, custom T&Cs builder, custom branding. Email support: hello@saltai.app |
+| **Free** | $0/month | 2 accounts | Application form, view applications, no custom pricing, watermark |
+| **Starter** | $29/month | Unlimited applications | Application form with approval workflow, custom pricing per account (discount % + notes), account status management (pending/approved/rejected/suspended). Email support: hello@saltai.app |
+| **Pro** | $75/month | Unlimited | Everything in Starter + T&Cs builder, manual invoice record-keeping per account, spend tier customisation, custom branding. Email support: hello@saltai.app |
 
 ---
 
@@ -78,18 +78,18 @@ Pulling orders together for a monthly invoice takes hours if done manually. Corp
 **Operations** → Wholesale and B2B
 
 ## Required Permissions
-- `read_products` — to reference products in invoices
+- `read_products` — to reference products in account records
 - `write_products` — to store account configuration
 
 ## Support
 - Support email: hello@saltai.app
 - Documentation: https://saltai.app/docs/corporate-accounts
-- Privacy policy: https://saltai.app/privacy
+- Privacy policy: https://saltai.app/privacy/corporate-accounts
 
 ---
 
 ## App Store Tags
-`B2B` `corporate accounts` `wholesale` `invoicing` `custom pricing` `credit accounts` `food business` `catering`
+`B2B` `corporate accounts` `wholesale` `custom pricing` `credit accounts` `food business` `catering` `application form`
 
 ---
 
@@ -97,37 +97,16 @@ Pulling orders together for a monthly invoice takes hours if done manually. Corp
 
 ## 5. Key Benefits (ready to paste)
 
+See Section 3 above.
 
 ## 6. Pricing Tiers (ready to paste)
 | Plan | Price | Accounts | Features |
 |------|-------|----------|----------|
-| **Free** | $0/month | 2 accounts | Application form only, no custom pricing, watermark |
-| **Starter** | $29/month | 10 accounts | Application form with approval workflow, custom pricing per account, account status management. Email support: hello@saltai.app |
-| **Pro** | $75/month | Unlimited | Everything in Starter + account holder login portal, monthly invoice generation, order history per account, custom T&Cs builder, custom branding. Email support: hello@saltai.app |
+| **Free** | $0/month | 2 accounts | Application form, view applications, no custom pricing, watermark |
+| **Starter** | $29/month | Unlimited applications | Application form with approval workflow, custom pricing per account, account status management. Email support: hello@saltai.app |
+| **Pro** | $75/month | Unlimited | Everything in Starter + T&Cs builder, manual invoice record-keeping per account, spend tier customisation, custom branding. Email support: hello@saltai.app |
 
 ---
-
-## App Category
-**Store design** → Custom storefronts  
-**Operations** → Wholesale and B2B
-
-## Required Permissions
-- `read_products` — to reference products in invoices
-- `write_products` — to store account configuration
-
-## Support
-- Support email: hello@saltai.app
-- Documentation: https://saltai.app/docs/corporate-accounts
-- Privacy policy: https://saltai.app/privacy
-
----
-
-## App Store Tags
-`B2B` `corporate accounts` `wholesale` `invoicing` `custom pricing` `credit accounts` `food business` `catering`
-
----
-
-*B2B account management system extracted from the operational stack of Vanda's Kitchen — supplier to Selfridges, Accenture, Red Bull, and Epic Games.*
 
 ## 7. App Details
 
@@ -136,8 +115,8 @@ Pulling orders together for a monthly invoice takes hours if done manually. Corp
 | App URL | https://shopify-corporate-accounts-production.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/corporate-accounts |
 | Support Email | hello@saltai.app |
-| Category | Store design → Custom storefronts |
-| Keywords |  |
+| Category | Operations → Wholesale and B2B |
+| Keywords | B2B accounts, corporate catering, wholesale pricing, application form, custom pricing, business accounts |
 
 ## 8. App Icon
 
@@ -146,11 +125,11 @@ Required size: 1200×1200 px (upload as-is, already correct size)
 
 ## 9. Screenshots to Capture
 
-1. Dashboard overview — show the main admin screen
-2. Key feature in action — show the primary function working
-3. Storefront view — show what customers see on the store
-4. Settings / configuration screen
-5. Mobile view (optional but recommended)
+1. Application form on storefront — show what corporate prospects see
+2. Admin applications dashboard — show the review workflow with status tabs
+3. Approve account modal — show custom discount % and pricing notes fields
+4. Account status management — pending/approved/rejected/suspended view
+5. Settings screen — T&Cs configuration and spend tiers
 
 Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 
@@ -165,7 +144,7 @@ Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 - [ ] Support email entered: hello@saltai.app
 - [ ] App icon uploaded (1200×1200 PNG)
 - [ ] At least 3 screenshots uploaded
-- [ ] Category selected: Store design → Custom storefronts
+- [ ] Category selected: Operations → Wholesale and B2B
 - [ ] Keywords entered
 - [ ] App URL confirmed: https://shopify-corporate-accounts-production.up.railway.app
 - [ ] Test install on a development store before submitting for review
@@ -173,4 +152,4 @@ Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 ## 11. Partner Dashboard Link
 
 https://partners.shopify.com/2129821664/apps
-(Find Corporate Accounts — B2B Portal in the list, click Manage → Distribute → Submit for review)
+(Find Corporate Accounts in the list, click Manage → Distribute → Submit for review)
