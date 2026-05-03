@@ -1,7 +1,7 @@
 # Team Orders — Weekly B2B Catering — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-Team Orders — Weekly B2B Catering
+Team Orders
 
 ## 2. Tagline (max 100 chars)
 Weekly team lunch ordering for offices and corporate clients — direct from your Shopify store.
@@ -68,7 +68,7 @@ Small orders for one or two days can be uneconomical when you factor in delivery
 |------|-------|------|----------|
 | **Free** | $0/month | 1 day | Up to 3 orders per week, watermark |
 | **Starter** | $49/month | 3 days | Up to 30 orders/week, minimum order enforcement, allergen warnings, team notes, advance notice rules. Email support: hello@saltai.app |
-| **Pro** | $125/month | Unlimited | Unlimited orders, everything in Starter + volume discounts, order history, recurring scheduling, email confirmation, custom branding. Email support: hello@saltai.app |
+| **Pro** | $125/month | Unlimited | Unlimited orders, everything in Starter + volume discounts, order history, recurring scheduling (automated weekly order generation, pause/resume, cron endpoint), email confirmation, custom branding. Email support: hello@saltai.app |
 
 ---
 
@@ -102,7 +102,7 @@ Small orders for one or two days can be uneconomical when you factor in delivery
 |------|-------|------|----------|
 | **Free** | $0/month | 1 day | Up to 3 orders per week, watermark |
 | **Starter** | $49/month | 3 days | Up to 30 orders/week, minimum order enforcement, allergen warnings, team notes, advance notice rules. Email support: hello@saltai.app |
-| **Pro** | $125/month | Unlimited | Unlimited orders, everything in Starter + volume discounts, order history, recurring scheduling, email confirmation, custom branding. Email support: hello@saltai.app |
+| **Pro** | $125/month | Unlimited | Unlimited orders, everything in Starter + volume discounts, order history, recurring scheduling (automated weekly order generation, pause/resume, cron endpoint), email confirmation, custom branding. Email support: hello@saltai.app |
 
 ---
 

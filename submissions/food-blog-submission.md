@@ -57,8 +57,8 @@ Blog content is your highest-ROI marketing channel. A post written today can dri
 | Plan | Price | Posts per Month | Features |
 |------|-------|-----------------|----------|
 | **Free** | $0/month | 3 posts | 3 categories only, no menu-as-context, watermark |
-| **Starter** | $39/month | 20 posts | All 12 food categories, menu-as-context, seasonal suggestions, publishes to Shopify blog. Email support: hello@saltai.app |
-| **Pro** | $89/month | 100 posts | Everything in Starter + content calendar, internal linking automation, custom categories, AEO/GEO optimisation, custom branding. Email support: hello@saltai.app |
+| **Starter** | $39/month | 20 posts | All 14 food categories, menu-as-context, seasonal suggestions, publishes to Shopify blog. Email support: hello@saltai.app |
+| **Pro** | $89/month | 100 posts | Everything in Starter + content calendar, internal linking automation, AEO/GEO optimisation, custom branding. Email support: hello@saltai.app |
 
 ---
 
@@ -91,8 +91,8 @@ Blog content is your highest-ROI marketing channel. A post written today can dri
 | Plan | Price | Posts per Month | Features |
 |------|-------|-----------------|----------|
 | **Free** | $0/month | 3 posts | 3 categories only, no menu-as-context, watermark |
-| **Starter** | $39/month | 20 posts | All 12 food categories, menu-as-context, seasonal suggestions, publishes to Shopify blog. Email support: hello@saltai.app |
-| **Pro** | $89/month | 100 posts | Everything in Starter + content calendar, internal linking automation, custom categories, AEO/GEO optimisation, custom branding. Email support: hello@saltai.app |
+| **Starter** | $39/month | 20 posts | All 14 food categories, menu-as-context, seasonal suggestions, publishes to Shopify blog. Email support: hello@saltai.app |
+| **Pro** | $89/month | 100 posts | Everything in Starter + content calendar, internal linking automation, AEO/GEO optimisation, custom branding. Email support: hello@saltai.app |
 
 ---
 

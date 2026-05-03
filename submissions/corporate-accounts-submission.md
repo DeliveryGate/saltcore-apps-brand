@@ -69,7 +69,7 @@ Managing corporate accounts in a spreadsheet or a separate CRM means data in two
 |------|-------|----------|----------|
 | **Free** | $0/month | 2 accounts | Application form, view applications, no custom pricing, watermark |
 | **Starter** | $29/month | Unlimited applications | Application form with approval workflow, custom pricing per account (discount % + notes), account status management (pending/approved/rejected/suspended). Email support: hello@saltai.app |
-| **Pro** | $75/month | Unlimited | Everything in Starter + T&Cs builder, manual invoice record-keeping per account, spend tier customisation, custom branding. Email support: hello@saltai.app |
+| **Pro** | $75/month | Unlimited | Everything in Starter + T&Cs builder, manual invoice record-keeping per account, spend tier customisation, account holder portal (secure web portal for approved clients to view pricing, invoices, and account details), custom branding. Email support: hello@saltai.app |
 
 ---
 
@@ -104,7 +104,7 @@ See Section 3 above.
 |------|-------|----------|----------|
 | **Free** | $0/month | 2 accounts | Application form, view applications, no custom pricing, watermark |
 | **Starter** | $29/month | Unlimited applications | Application form with approval workflow, custom pricing per account, account status management. Email support: hello@saltai.app |
-| **Pro** | $75/month | Unlimited | Everything in Starter + T&Cs builder, manual invoice record-keeping per account, spend tier customisation, custom branding. Email support: hello@saltai.app |
+| **Pro** | $75/month | Unlimited | Everything in Starter + T&Cs builder, manual invoice record-keeping per account, spend tier customisation, account holder portal (secure web portal for approved clients to view pricing, invoices, and account details), custom branding. Email support: hello@saltai.app |
 
 ---
 

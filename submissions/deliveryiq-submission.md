@@ -74,7 +74,9 @@ Manage your entire delivery operation from a single admin screen. Update postcod
 - Unlimited blocked dates
 - Multiple volume discount tiers
 - Checkout extension
-- Delivery analytics
+- Delivery analytics dashboard (conversion rate, popular dates, postcode insights, peak days)
+- Blocked postcode demand tracking (see which postcodes you should expand to)
+- Storefront event tracking API for custom integrations
 - Custom branding
 - Email support: hello@saltai.app
 
@@ -127,7 +129,9 @@ Manage your entire delivery operation from a single admin screen. Update postcod
 - Unlimited blocked dates
 - Multiple volume discount tiers
 - Checkout extension
-- Delivery analytics
+- Delivery analytics dashboard (conversion rate, popular dates, postcode insights, peak days)
+- Blocked postcode demand tracking (see which postcodes you should expand to)
+- Storefront event tracking API for custom integrations
 - Custom branding
 - Email support: hello@saltai.app
 
@@ -167,7 +171,9 @@ https://deliveryiq-production.up.railway.app
 - Unlimited blocked dates
 - Multiple volume discount tiers
 - Checkout extension
-- Delivery analytics
+- Delivery analytics dashboard (conversion rate, popular dates, postcode insights, peak days)
+- Blocked postcode demand tracking (see which postcodes you should expand to)
+- Storefront event tracking API for custom integrations
 - Custom branding
 - Email support: hello@saltai.app
 

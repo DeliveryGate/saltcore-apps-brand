@@ -70,7 +70,7 @@ The built-in subscriber portal lets customers skip weeks, pause deliveries, upda
 
 | Field | Value |
 |-------|-------|
-| App URL | https://saltai-subscriptions-production.up.railway.app |
+| App URL | https://saltai-subscriptions-production-00e2.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/saltai-subscriptions |
 | Support Email | hello@saltai.app |
 | Category | Selling strategies — Subscriptions |
@@ -102,7 +102,7 @@ Required size: 1200×1200 px
 - [ ] At least 3 screenshots uploaded
 - [ ] Category selected: Selling strategies — Subscriptions
 - [ ] Keywords entered
-- [ ] App URL confirmed: https://saltai-subscriptions-production.up.railway.app
+- [ ] App URL confirmed: https://saltai-subscriptions-production-00e2.up.railway.app
 - [ ] Test install on a development store before submitting for review
 
 ## 11. Partner Dashboard Link

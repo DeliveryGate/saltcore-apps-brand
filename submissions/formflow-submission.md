@@ -76,7 +76,7 @@ Honeypot spam filtering catches bots automatically without showing customers an 
 - Unlimited forms and submissions
 - Everything in Starter
 - Conditional logic
-- Multi-step forms
+- Multi-step forms (step titles, progress bar, per-field step assignment, Next/Back navigation)
 - File uploads
 - Custom branding
 - Email support: hello@saltai.app
@@ -96,7 +96,7 @@ hello@saltai.app
 https://saltai.app/privacy/formflow
 
 ### App URL (for partners.shopify.com)
-https://formflow-production.up.railway.app
+https://formflow-production-336c.up.railway.app
 
 ## 5. Key Benefits (ready to paste)
 **1. Any Form, Anywhere in Your Store**
@@ -131,7 +131,7 @@ Honeypot spam filtering catches bots automatically without showing customers an 
 - Unlimited forms and submissions
 - Everything in Starter
 - Conditional logic
-- Multi-step forms
+- Multi-step forms (step titles, progress bar, per-field step assignment, Next/Back navigation)
 - File uploads
 - Custom branding
 - Email support: hello@saltai.app
@@ -151,7 +151,7 @@ hello@saltai.app
 https://saltai.app/privacy/formflow
 
 ### App URL (for partners.shopify.com)
-https://formflow-production.up.railway.app
+https://formflow-production-336c.up.railway.app
 
 ## 6. Pricing Tiers (ready to paste)
 **Free — One Form**
@@ -173,7 +173,7 @@ https://formflow-production.up.railway.app
 - Unlimited forms and submissions
 - Everything in Starter
 - Conditional logic
-- Multi-step forms
+- Multi-step forms (step titles, progress bar, per-field step assignment, Next/Back navigation)
 - File uploads
 - Custom branding
 - Email support: hello@saltai.app
@@ -193,13 +193,13 @@ hello@saltai.app
 https://saltai.app/privacy/formflow
 
 ### App URL (for partners.shopify.com)
-https://formflow-production.up.railway.app
+https://formflow-production-336c.up.railway.app
 
 ## 7. App Details
 
 | Field | Value |
 |-------|-------|
-| App URL | https://formflow-production.up.railway.app |
+| App URL | https://formflow-production-336c.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/formflow |
 | Support Email | hello@saltai.app |
 | Category | Store management — Forms |
@@ -233,7 +233,7 @@ Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 - [ ] At least 3 screenshots uploaded
 - [ ] Category selected: Store management — Forms
 - [ ] Keywords entered
-- [ ] App URL confirmed: https://formflow-production.up.railway.app
+- [ ] App URL confirmed: https://formflow-production-336c.up.railway.app
 - [ ] Test install on a development store before submitting for review
 
 ## 11. Partner Dashboard Link

@@ -74,7 +74,7 @@ Your B2B customers expect a professional buying experience. A "Request a Quote" 
 - Unlimited quotes
 - Everything in Starter
 - Convert quote to Shopify draft order
-- Custom quote PDF template
+- PDF quote generation (professional A4 PDF with branding, customer details, pricing, and validity date)
 - Rate limiting controls
 - Custom branding
 - Email support: hello@saltai.app
@@ -94,7 +94,7 @@ hello@saltai.app
 https://saltai.app/privacy/quoteflow
 
 ### App URL (for partners.shopify.com)
-https://quoteflow-production.up.railway.app
+https://quoteflow-production-f66f.up.railway.app
 
 ## 5. Key Benefits (ready to paste)
 **1. Stop Losing B2B Enquiries to Email Chaos**
@@ -127,7 +127,7 @@ Your B2B customers expect a professional buying experience. A "Request a Quote" 
 - Unlimited quotes
 - Everything in Starter
 - Convert quote to Shopify draft order
-- Custom quote PDF template
+- PDF quote generation (professional A4 PDF with branding, customer details, pricing, and validity date)
 - Rate limiting controls
 - Custom branding
 - Email support: hello@saltai.app
@@ -147,7 +147,7 @@ hello@saltai.app
 https://saltai.app/privacy/quoteflow
 
 ### App URL (for partners.shopify.com)
-https://quoteflow-production.up.railway.app
+https://quoteflow-production-f66f.up.railway.app
 
 ## 6. Pricing Tiers (ready to paste)
 **Free — First Steps in B2B**
@@ -167,7 +167,7 @@ https://quoteflow-production.up.railway.app
 - Unlimited quotes
 - Everything in Starter
 - Convert quote to Shopify draft order
-- Custom quote PDF template
+- PDF quote generation (professional A4 PDF with branding, customer details, pricing, and validity date)
 - Rate limiting controls
 - Custom branding
 - Email support: hello@saltai.app
@@ -187,13 +187,13 @@ hello@saltai.app
 https://saltai.app/privacy/quoteflow
 
 ### App URL (for partners.shopify.com)
-https://quoteflow-production.up.railway.app
+https://quoteflow-production-f66f.up.railway.app
 
 ## 7. App Details
 
 | Field | Value |
 |-------|-------|
-| App URL | https://quoteflow-production.up.railway.app |
+| App URL | https://quoteflow-production-f66f.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/quoteflow |
 | Support Email | hello@saltai.app |
 | Category | Selling strategies — B2B |
@@ -227,7 +227,7 @@ Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 - [ ] At least 3 screenshots uploaded
 - [ ] Category selected: Selling strategies — B2B
 - [ ] Keywords entered
-- [ ] App URL confirmed: https://quoteflow-production.up.railway.app
+- [ ] App URL confirmed: https://quoteflow-production-f66f.up.railway.app
 - [ ] Test install on a development store before submitting for review
 
 ## 11. Partner Dashboard Link

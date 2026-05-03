@@ -78,6 +78,9 @@ Posts publish directly to your native Shopify blog — not an iframe, not an ext
 - Content calendar
 - Keyword research tool
 - Auto internal linking
+- Readability scoring (Flesch Reading Ease + Grade Level with recommendations)
+- Duplicate content detection (Jaccard similarity check against published posts)
+- Schema markup hints (Article, FAQPage, Recipe structured data suggestions)
 - Custom branding
 - Email support: hello@saltai.app
 
@@ -132,6 +135,9 @@ Posts publish directly to your native Shopify blog — not an iframe, not an ext
 - Content calendar
 - Keyword research tool
 - Auto internal linking
+- Readability scoring (Flesch Reading Ease + Grade Level with recommendations)
+- Duplicate content detection (Jaccard similarity check against published posts)
+- Schema markup hints (Article, FAQPage, Recipe structured data suggestions)
 - Custom branding
 - Email support: hello@saltai.app
 
@@ -173,6 +179,9 @@ https://blogflow-production-fdd0.up.railway.app
 - Content calendar
 - Keyword research tool
 - Auto internal linking
+- Readability scoring (Flesch Reading Ease + Grade Level with recommendations)
+- Duplicate content detection (Jaccard similarity check against published posts)
+- Schema markup hints (Article, FAQPage, Recipe structured data suggestions)
 - Custom branding
 - Email support: hello@saltai.app
 

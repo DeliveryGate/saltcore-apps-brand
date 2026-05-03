@@ -93,7 +93,7 @@ hello@saltai.app
 https://saltai.app/privacy/reviewpulse
 
 ### App URL (for partners.shopify.com)
-https://reviewpulse-production.up.railway.app
+https://reviewpulse-production-f01a.up.railway.app
 
 ## 5. Key Benefits (ready to paste)
 **1. Automate Your Review Collection Completely**
@@ -147,7 +147,7 @@ hello@saltai.app
 https://saltai.app/privacy/reviewpulse
 
 ### App URL (for partners.shopify.com)
-https://reviewpulse-production.up.railway.app
+https://reviewpulse-production-f01a.up.railway.app
 
 ## 6. Pricing Tiers (ready to paste)
 **Free — Up to 10 Reviews**
@@ -188,13 +188,13 @@ hello@saltai.app
 https://saltai.app/privacy/reviewpulse
 
 ### App URL (for partners.shopify.com)
-https://reviewpulse-production.up.railway.app
+https://reviewpulse-production-f01a.up.railway.app
 
 ## 7. App Details
 
 | Field | Value |
 |-------|-------|
-| App URL | https://reviewpulse-production.up.railway.app |
+| App URL | https://reviewpulse-production-f01a.up.railway.app |
 | Privacy Policy URL | https://saltai.app/privacy/reviewpulse |
 | Support Email | hello@saltai.app |
 | Category | Store design — Reviews and testimonials |
@@ -228,7 +228,7 @@ Capture at 1280×800 px minimum. Use the Railway URL above to access the app.
 - [ ] At least 3 screenshots uploaded
 - [ ] Category selected: Store design — Reviews and testimonials
 - [ ] Keywords entered
-- [ ] App URL confirmed: https://reviewpulse-production.up.railway.app
+- [ ] App URL confirmed: https://reviewpulse-production-f01a.up.railway.app
 - [ ] Test install on a development store before submitting for review
 
 ## 11. Partner Dashboard Link
