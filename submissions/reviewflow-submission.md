@@ -80,7 +80,7 @@ hello@saltai.app
 https://saltai.app/privacy/reviewflow
 
 ## App URL
-https://reviewflow-production.up.railway.app
+https://reviewflow-production-production.up.railway.app
 
 ---
 
