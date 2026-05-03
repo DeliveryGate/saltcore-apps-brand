@@ -1,5 +1,5 @@
 # ReviewFlow — App Submission Pack
-**App Name:** ReviewFlow — Beautiful Product Reviews
+**App Name:** ReviewFlow — Product Reviews
 **Tagline:** Product reviews that actually match your brand. Better design, smarter requests, more conversions.
 
 ---
