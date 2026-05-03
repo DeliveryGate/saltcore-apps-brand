@@ -1,7 +1,7 @@
-# Smart Shop — Dietary Filter Collection — App Store Submission Checklist
+# Smart Shop — Dietary Filter — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-Smart Shop — Dietary Filter Collection
+Smart Shop — Dietary Filter
 
 ## 2. Tagline (max 100 chars)
 Let customers filter your collection by diet. Vegan, gluten-free, halal, and more — with one click.

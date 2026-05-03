@@ -1,7 +1,7 @@
-# PushFlow — Bulk Import, Export & Migrate — App Store Submission
+# PushFlow — Bulk Publisher — App Store Submission
 
 ## 1. App Name (max 30 chars)
-PushFlow — Bulk Import & Export
+PushFlow — Bulk Publisher
 
 ## 2. Tagline (max 100 chars)
 Import, export, update and migrate all your Shopify store data.

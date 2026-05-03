@@ -1,7 +1,7 @@
-# Local Booking — Service and Slot Booking — App Store Submission Checklist
+# Local Booking — Appointments — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-Local Booking — Service and Slot Booking
+Local Booking — Appointments
 
 ## 2. Tagline (max 100 chars)
 Add slot-based booking to your Shopify store. Drop-off, collection, appointments — all on your own site.

@@ -1,7 +1,7 @@
-# Food Blog — AI Content for Food Businesses — App Store Submission Checklist
+# Food Blog — AI Recipe Writer — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-Food Blog — AI Content for Food Businesses
+Food Blog — AI Recipe Writer
 
 ## 2. Tagline (max 100 chars)
 Write SEO-optimised food blog posts in seconds with AI built for restaurants, cafés, and caterers.

@@ -1,7 +1,7 @@
-# Menu Builder — Custom Meal Configurator — App Store Submission Checklist
+# Menu Builder — Meal Picker — App Store Submission Checklist
 
 ## 1. App Name (max 30 chars)
-Menu Builder — Meal Configurator
+Menu Builder — Meal Picker
 
 ## 2. Tagline (max 100 chars)
 Let customers build their own meal. Custom trays, freedom boxes, and set menus — all configurable.
